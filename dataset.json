@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete state-level restaurant data for Iowa. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Iowa, US",
+  "export_job_id": "43be5e6d-bed9-4269-b59b-99af5dc49b7f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 636232,
+  "location_name": "Iowa",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-iowa-us-sample-636232",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/636232/beamstation_636232_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 625,
+  "sample_sha256": "0f3f76269f609b194a2b547ff890d906f6a18b7b5bbfc9049fb0455e0c3fb5bd",
+  "sample_size_bytes": 1416839,
+  "total_records": 6252,
+  "updated_at": "2026-04-14T20:05:25.726944+00:00"
+}
