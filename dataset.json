@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Iowa. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Iowa, US",
-  "export_job_id": "4ffd6cc8-5f4c-4b09-88f3-c4787905c0c1",
+  "export_job_id": "08a80c29-528e-4d00-a71a-36dfc3883f58",
   "github_org": "Beamstation-Datasets",
   "id_short": 636232,
   "location_name": "Iowa",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-iowa-us-sample-636232",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/636232/beamstation_636232_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 654,
-  "sample_sha256": "9fac258485fedfc7ac5467a9ddd396fa2ec9037766d76598c09f93efb9f730b6",
-  "sample_size_bytes": 2086735,
-  "total_records": 6547,
-  "updated_at": "2026-04-29T01:06:31.045889+00:00"
+  "sample_records": 696,
+  "sample_sha256": "e823b9ff1698529fa37543c6b6fc407aa3724731d92aeaf7e97a95b544966877",
+  "sample_size_bytes": 2029691,
+  "total_records": 6968,
+  "updated_at": "2026-05-08T08:41:05.540321+00:00"
 }
